@@ -1,3 +1,2 @@
-    Python 3.9
-    Streamlit
-    Google GenerativeAI
+streamlit
+google-generativeai
